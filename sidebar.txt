@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[juh:home|Door43 (juh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-juh|d43-juh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-juh/archive/master.zip|d43-juh.zip]]
+
+**Recent Changes**
+{{changes>ns = juh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/juh|Ethnologue data]]
+
